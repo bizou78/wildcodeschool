@@ -1,5 +1,6 @@
 # wildcodeschool
-Procédure d'utilisation de Github via CLI
+
+Procédure d'utilisation de github via CLI :
 
 1 - git init
 2 - git add "filename"
